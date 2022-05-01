@@ -23,6 +23,8 @@ This Flutter project is developed according to the provided project requirement.
 
 ## 🧮 Code Structure
 
+<details>
+
 ```
 📦lib
  ┣ 📂src
@@ -88,8 +90,12 @@ This Flutter project is developed according to the provided project requirement.
  ┣ 📜generated_plugin_registrant.dart
  ┗ 📜main.dart
 ```
+ 
+ </details>
 
 ## 🛡 Authentication Repository Structure
+
+<details>
 
 ```
 📦packages
@@ -111,10 +117,8 @@ This Flutter project is developed according to the provided project requirement.
  ┃ ┗ 📜pubspec.yaml
 
  ```
-
+</details>
+ 
 ## 📱 Demo
 
 <img src="https://github.com/Insha-Siddiquii/flutter_project_evaluator/blob/master/video/project-flutter_.gif" width ="300"> 
-
-
-
