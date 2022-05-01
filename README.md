@@ -8,7 +8,7 @@ This Flutter project is developed according to the provided project requirement.
 - Login with credentials configured with Firebase Auth
 - Login with google sign-in configured with Firebase Auth and Google SignIn
 - Sign up with credentials configured with Firebase Auth
-- Home screen with required message i.e. "Hello, <email address>"
+- Home screen with required message i.e. "Hello, {email address}"
 - Logout alert dialog
 - Application gradient themed UI
 - Support android and iOS
