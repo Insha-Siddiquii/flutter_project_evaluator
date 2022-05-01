@@ -1,0 +1,36 @@
+name: flutter_dukkan_project
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.0.1
+  formz: ^0.4.1
+  equatable: ^2.0.3
+  authentication_repository: 
+    path: packages/authentication_repository
+  shared_preferences: ^2.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  flutter_launcher_icons: ^0.9.2
+
+flutter_icons:
+  image_path: 'assets/icons/app_icon.png'
+  android: true
+  ios: true
+  remove_alpha_ios: true
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
