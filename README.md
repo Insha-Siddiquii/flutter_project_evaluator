@@ -122,3 +122,4 @@ This Flutter project is developed according to the provided project requirement.
 ## 📱 Demo
 
 <img src="https://github.com/Insha-Siddiquii/flutter_project_evaluator/blob/master/video/project-flutter_.gif" width ="300"> 
+
